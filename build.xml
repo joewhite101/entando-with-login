@@ -1,0 +1,7 @@
+<project name="fiveOneOh" default="WAR-build" basedir=".">
+	<description>fiveOneOh - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
